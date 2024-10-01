@@ -2,7 +2,10 @@
 This portfolio contains my data analysis and data science projects
 
 ## Project 1
+[Project Overview](project-overview)
+
 ### Project Overview
+
 write about it here
 
 ### Data Sources
