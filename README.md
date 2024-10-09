@@ -1,4 +1,4 @@
-# My-Data-Journey-Portfolio
+# Coffee Sales Performance
 This portfolio contains my data analysis and data science projects
 
 ## Project 1
