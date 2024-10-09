@@ -5,9 +5,8 @@
 
 ### Description
 ---
-This project aims to analyze coffee sales data for a chain of coffee shops to identify key sales trends, customer behaviour, and product performance over 12 months. By exploring sales across different regions, product categories, and periods, the goal is to uncover actionable insights that can help optimize inventory, boost sales, and improve customer retention.
+This project aims to analyze coffee sales data for a chain of coffee shops over 12 months to identify key sales trends, customer behaviour, and product performance. The goal of exploring sales across different regions, product categories, and periods is to uncover actionable insights that can help optimize inventory, boost sales, and improve customer retention.
 
-In this project, a comprehensive analysis of coffee sales data from a fictional coffee chain over 12 months is performed. The goal is to identify key trends and patterns in sales performance, understand customer preferences, and offer actionable insights that can drive decision-making for inventory management, marketing strategies, and pricing optimisation.
 
 ## Objectives
 ---
